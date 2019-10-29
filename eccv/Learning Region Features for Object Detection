@@ -1,0 +1,3 @@
+roi pooling
+region of interest 和 原来的feature 不再是手动求平均了
+通过权重的方式 自适应式的学习
